@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <title>Auto Prime - Proteção Veícular</title>
     <!-- Font Icons -->
-    <link media="all" rel="stylesheet" href="css/fonts/icomoon/icomoon.css">
+    <link media="all" rel="stylesheet" href="CSS/fonts/icomoon/icomoon.css">
     <!--     <link media="all" rel="stylesheet" href="css/fonts/roxine-font-icon/roxine-font.css"> -->
     <link media="all" rel="stylesheet" href="vendors/font-awesome/css/font-awesome.css">
     <!-- Vendors -->
@@ -19,15 +19,15 @@
     <link media="all" rel="stylesheet" href="vendors/fancyBox/source/jquery.fancybox.css">
     <link media="all" rel="stylesheet" href="vendors/fancyBox/source/helpers/jquery.fancybox-thumbs.css">
     <!-- Bootstrap 4 -->
-    <link media="all" rel="stylesheet" href="css/bootstrap.css">
+    <link media="all" rel="stylesheet" href="CSS/bootstrap.css">
     <!-- Rev Slider -->
     <link rel="stylesheet" type="text/css" href="vendors/rev-slider/revolution/css/settings.css">
     <link rel="stylesheet" type="text/css" href="vendors/rev-slider/revolution/css/layers.css">
     <link rel="stylesheet" type="text/css" href="vendors/rev-slider/revolution/css/navigation.css">
     <!-- Theme CSS -->
-    <link media="all" rel="stylesheet" href="css/main.css">
+    <link media="all" rel="stylesheet" href="CSS/main.css">
     <!-- Custom CSS -->
-    <link media="all" rel="stylesheet" href="css/custom.css">
+    <link media="all" rel="stylesheet" href="CSS/custom.css">
 </head>
 
 <body class="white-overlay">
