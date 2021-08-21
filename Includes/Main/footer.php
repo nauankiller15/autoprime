@@ -70,10 +70,10 @@
     <script src="vendors/bootstrap-datepicker/js/bootstrap-datepicker.min.js"></script>
     <script src="vendors/bootstrap-slider-master/src/js/bootstrap-slider.js"></script>
     <script src="vendors/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
-    <script src="js/mega-menu.js"></script>
+    <script src="JS/mega-menu.js"></script>
     <script src="vendors/retina/retina.min.js"></script>
     <!-- Custom Script -->
-    <script src="js/jquery.main.js"></script>
+    <script src="JS/jquery.main.js"></script>
     <!-- REVOLUTION JS FILES -->
     <script type="text/javascript" src="vendors/rev-slider/revolution/js/jquery.themepunch.tools.min.js"></script>
     <script type="text/javascript" src="vendors/rev-slider/revolution/js/jquery.themepunch.revolution.min.js"></script>
@@ -90,4 +90,4 @@
     <!-- SNOW ADD ON -->
     <script type="text/javascript" src="vendors/rev-slider/revolution-addons/snow/revolution.addon.snow.min.js"></script>
     <!-- Revolution Slider Script -->
-    <script src="js/revolution.js"></script>
+    <script src="JS/revolution.js"></script>
