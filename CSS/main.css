@@ -1150,7 +1150,7 @@ h3 {
 /*********************** white header ***********************/
 
 .main-header.header-white.sticky-nav {
-  background: #fff;
+  background: #0e0d0e;
 }
 
 .main-header.header-white .navbar .navbar-nav li .dropdown-menu {
@@ -4117,7 +4117,7 @@ em.state-invalid {
 }
 
 .main-header.header-white {
-  background: #fff;
+  background: #0e0d0e;
 }
 
 .main-header.header-white .navbar .navbar-nav li {
@@ -13315,7 +13315,7 @@ a.full-width-icon:hover .social-text {
   .main-header .navbar .navbar-brand {
     margin-left: auto;
     padding: 1.2rem 0;
-    width: 6.938rem;
+    width: 14.938rem;
     display: block;
   }
 
@@ -13450,7 +13450,7 @@ a.full-width-icon:hover .social-text {
 
   .main-header .navbar-toggler {
     padding: 0;
-    top: 13px;
+    top: 27px;
     margin-top: 0;
     outline: none;
     cursor: pointer;
