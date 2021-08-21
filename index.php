@@ -572,8 +572,8 @@
             </main>
         </div>
         <!-- footer of the pagse -->
-        <?php include("Includes/Main/footer.php"); ?>
 
 </body>
+<?php include("Includes/Main/footer.php"); ?>
 
 </html>

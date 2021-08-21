@@ -16,31 +16,31 @@
                 <div class="collapse navbar-collapse flex-row-reverse" id="mega-menu">
                     <ul class="nav navbar-nav">
                         <li class="dropdown" data-animation="fadeIn">
-                            <a class="dropdown-toggle" data-toggle="dropdown" href="index.html" data-title="Home"> Início </a>
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#" data-title="Home"> Início </a>
                         </li>
                         <li class="dropdown" data-animation="fadeIn">
-                            <a class="dropdown-toggle" data-toggle="dropdown" href="index.html" data-title="Home"> Área do Associado </a>
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#" data-title="Home"> Área do Associado </a>
                         </li>
                         <li class="dropdown" data-animation="fadeIn">
-                            <a class="dropdown-toggle" data-toggle="dropdown" href="index.html" data-title="Home"> Comunicar Evento </a>
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#" data-title="Home"> Comunicar Evento </a>
                         </li>
                         <li>
-                            <a href="about.html"> Sinistro </a>
+                            <a href="#"> Sinistro </a>
                         </li>
                         <li>
-                            <a href="team.html"> FAQ </a>
+                            <a href="#"> FAQ </a>
                         </li>
                         <li class="dropdown right-dropdown" data-animation="fadeIn">
-                            <a class="dropdown-toggle" data-toggle="dropdown" href="index.html" data-title="Home"> Blog </a>
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#" data-title="Home"> Blog </a>
                             <ul class="dropdown-menu no-border-radius">
-                                <li><a href="blog-one-col.html"> Blog One Column </a></li>
-                                <li><a href="blog-two-col.html"> Blog Two Column </a></li>
-                                <li><a href="blog-three-col.html"> Blog Three Column </a></li>
-                                <li><a href="blog-left-sidebar.html"> Blog Left Sidebar </a></li>
-                                <li><a href="blog-right-sidebar.html"> Blog Right Sidebar </a></li>
-                                <li><a href="blog-masonary.html"> Masonary </a></li>
-                                <li><a href="blog-full-width.html"> Full Width </a></li>
-                                <li><a href="blog-single.html"> Blog Single </a></li>
+                                <li><a href="#"> Blog One Column </a></li>
+                                <li><a href="#"> Blog Two Column </a></li>
+                                <li><a href="#"> Blog Three Column </a></li>
+                                <li><a href="#"> Blog Left Sidebar </a></li>
+                                <li><a href="#"> Blog Right Sidebar </a></li>
+                                <li><a href="#"> Masonary </a></li>
+                                <li><a href="#"> Full Width </a></li>
+                                <li><a href="#"> Blog Single </a></li>
                             </ul>
                         </li>
                         <li>
