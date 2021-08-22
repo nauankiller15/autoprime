@@ -5418,7 +5418,6 @@ em.state-invalid {
 
 .work-block {
   position: relative;
-  min-height: 920px;
   overflow: hidden;
 }
 
@@ -13069,7 +13068,7 @@ a.full-width-icon:hover .social-text {
   }
 
   .work-block {
-    min-height: 1240px;
+    min-height: 200px;
   }
 
   .content-block-v4 {

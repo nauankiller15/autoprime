@@ -257,9 +257,9 @@
         .bg-stretch {
             position: static;
             img {
-                margin: 0 !important !important; // to overwrite js style
-                width: 100% !important !important; // to overwrite js style
-                height: auto !important !important; // to overwrite js style
+                margin: 0 !important; // to overwrite js style
+                width: 100% !important; // to overwrite js style
+                height: auto !important; // to overwrite js style
             }
         }
         .img-wrap {
